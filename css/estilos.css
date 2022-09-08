@@ -1,2 +1,3 @@
-header h1 { text-align: center; font-family: Georgia, 'Times New Roman', Times, serif; background-color: aquamarine; font-weight: bold; }
+* { box-sizing: border-box; font-family: Georgia, 'Times New Roman', Times, serif;}
+header h1 { text-align: center; background-color: aquamarine; font-weight: bold; }
 nav ul li { display: inline; }
