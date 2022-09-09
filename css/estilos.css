@@ -1,1 +1,4 @@
 * { box-sizing: border-box; font-family: Georgia, 'Times New Roman', Times, serif; }
+nav ul li { display: inline; }
+nav a { text-decoration: none; }
+a:hover { text-decoration: underline solid; }
