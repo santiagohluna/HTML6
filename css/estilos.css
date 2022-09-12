@@ -1,5 +1,5 @@
 * { box-sizing: border-box; font-family: Georgia, 'Times New Roman', Times, serif; }
-header { background-color: aqua; margin: 0%; }
+header { background-color: aqua; margin: 0%; padding: 0px; border: 2px solid black ;}
 h1 { text-align: center; }
 nav ul li { display: inline; }
 nav a { text-decoration: none; }
